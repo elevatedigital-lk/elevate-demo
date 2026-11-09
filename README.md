@@ -1,16 +1,15 @@
-# Beto Shoes — Shareable Catalog
+# Elevate Demo Catalog — Hands-On Showcase
 
-Simple, 100% free shoe catalog site for WhatsApp sharing. Built for a friend's
-business (Beto) — potential future Elevate client if this takes off.
+Inviting, interactive demo catalog showing customers how to use Elevate Catalog
+with diverse products and responsive design. "Try it now — browse, inquire, see how it works."
 
 ## Live links
 
-- **Customer-facing site (share this on WhatsApp):** https://beto-shoes.vercel.app
-- **Admin panel (add/remove products, upload photos):** https://beto-shoes.sanity.studio
-  - Log in with the same Google/GitHub account used to create the Sanity project (dulajh.punchihewa@gmail.com via GitHub)
-- **Code repo (private):** https://github.com/DulajHP/beto-shoes
-- **Vercel project:** https://vercel.com/elevate-6e14/beto-shoes
-- **Sanity project console:** https://www.sanity.io/manage/project/68c6eq6z
+- **Customer-facing site (share this on WhatsApp):** https://elevate-demo.vercel.app
+- **Admin panel (add/remove products, upload photos):** https://elevate-demo.sanity.studio
+- **Code repo:** https://github.com/elevatedigital-lk/elevate-demo
+- **Vercel project:** https://vercel.com/elevate-6e14/elevate-demo
+- **Sanity project console:** https://www.sanity.io/manage/project/[PROJECT_ID]
 
 ## Stack (all free tier)
 
